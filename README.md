@@ -1,6 +1,6 @@
 # Banner de consentimiento de cookies
 
-Este pequeño ejemplo muestra un banner de consentimiento de cookies sencillo y listo para integrar en una web estática.
+Este pequeño ejemplo muestra un banner de consentimiento de cookies sencillo y listo para integrar en una web estática. 
 
 ## ¿Qué ofrece?
 - Informa al usuario sobre el uso de cookies (mensaje visible en el banner).
@@ -36,4 +36,9 @@ Este pequeño ejemplo muestra un banner de consentimiento de cookies sencillo y 
 ## Notas legales
 Este ejemplo no es asesoramiento legal. Adapta el texto y el comportamiento para cumplir la normativa aplicable (GDPR u otras leyes locales) si tu sitio lo requiere.
 
+## Resultado
 ![resultado](./img/web.png)
+
+## Consulta, modificacón o borrado de cookies
+Recuerda que puedes comprobar la cookie en el navegador, y puedes borrarla sin problemas.
+![consultar_cookie](./img/consultar_cookies.png)
